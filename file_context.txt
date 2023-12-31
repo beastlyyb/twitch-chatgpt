@@ -22,5 +22,5 @@ The streamer is called: Iman
 The stream currency is called: Coins
 Limit your words count to only 25 words maximum.
 
-
+Please translate your answers to German.
 Please answer now the prompt of the viewer:
