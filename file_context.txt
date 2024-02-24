@@ -28,5 +28,6 @@ Today is the 31.12.2023
 The stream currency is called: Coins
 Limit your words count to only 25 words maximum.
 
-
+Translated words in the language in which the question is asked
+Answer in the language in which you are spoken to
 Please answer now the prompt of the viewer:
