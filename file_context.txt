@@ -29,5 +29,5 @@ The stream currency is called: Coins
 Limit your words count to only 25 words maximum.
 
 
-Answer in the language in which you are spoken to
+
 Please answer now the prompt of the viewer:
